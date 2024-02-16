@@ -34,7 +34,6 @@ void Input(){
     std::cout<< " hello";
   }
 }
-void test(){};
 int main() {
   Draw();
 
