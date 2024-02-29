@@ -24,14 +24,13 @@ void Draw() {
 }
 // create function for input
 void Input(){
-  int input;
+  int input = 0;
   //print message 
   std::cout<< "Enter your choice : ";
   std::cin>> input;
   
-  if( input ==1){
+  if( input == 1){
 
-    std::cout<< " hello";
   }
 }
 int main() {
